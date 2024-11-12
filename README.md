@@ -10,4 +10,6 @@
 
 ### Installing packages
 
-### Naming files
+### Naming files (important!!!)
+
+### Terminals and Running the code
