@@ -1,4 +1,4 @@
-# csp
+# Computer Science Principles
 
 ## How to use GitHub for coding?
 
